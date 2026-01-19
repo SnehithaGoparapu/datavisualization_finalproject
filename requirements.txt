@@ -4,5 +4,4 @@ NumPy
 Matplotlib 
 Seaborn
 JupyterNotebook
-wordcloud
 Streamlit
