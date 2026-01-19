@@ -3,6 +3,6 @@ Pandas
 NumPy
 Matplotlib 
 Seaborn
-Jupyter Notebook
+JupyterNotebook
 wordcloud
 Streamlit
